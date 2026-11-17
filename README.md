@@ -52,8 +52,6 @@ Muchos de mis proyectos viven por ahora en repositorios privados. Mientras organ
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
 </a>
 
-## 🎮 Un poco de juego
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Skylethx/Skylethx/output/pacman-contribution-graph-dark.svg" />
